@@ -1,0 +1,29 @@
+{
+	"token": "MTE4NjI0MDg1ODU3MjQ2ODMyNQ.GuC81Y.up5tQzbtgC0XdbgP6GM-t5qSoDUCzJiMX_x5Dk",
+	"guildID": "1186243891440136202",
+	"roleID": "1186246159417749605",
+        "roleID1": "1186246159417749605",
+        "roleID2": "1186246159417749605",
+        "roleID3": "1186246159417749605",
+        "roleID4": "1186246159417749605",
+        "roleID5": "1186246159417749605",
+        "roleID6": "1186246159417749605",
+        "roleID7": "1186246159417749605", 
+	"ownerID": {
+        "ownerID1": "1186246605150634054",
+        "ownerID2": "1186246605150634054"
+    },
+	"commandroom": "1186243891440136205",
+        "guildID1": "1186243891440136202",
+	"versionbot": "NDK x Jubi",
+        "versionbot1": "BOT SPAM SMS",
+	"img": "https://media.discordapp.net/attachments/1043734334462513223/1047163178292887582/1ED44239-60BE-46B0-B1A0-33A661CBE232.jpg?width=665&height=662",
+	"photovip": ["https://media1.giphy.com/media/eSPEwBxWml5O8OZQAD/giphy.gif?cid=ecf05e47n7y42oi5ht6qk2m64g4dywht4epj2hscw0r3mk4m&rid=giphy.gif&ct=g"],
+        "photovip1": ["https://media0.giphy.com/media/2SvePlXEmRak8/giphy.gif?cid=ecf05e47dlcd1zjo068tk28qxdngposkt4b42f7696cs0cdu&rid=giphy.gif&ct=g"],
+        "photovip2": ["https://media0.giphy.com/media/jjl8k7kJjJUis/giphy.gif?cid=ecf05e47s3y0s21z6lkhmviueuyd1ngdaop8249rkztxtlxp&rid=giphy.gif&ct=g"],
+        "photovip3": ["https://media3.giphy.com/media/vdjh02z3G0IvZRuzAA/giphy.gif?cid=ecf05e4703fo2lqlavhmy29xyhiufsz0keyweugjj6jj5r43&rid=giphy.gif&ct=g"],
+        "photovip4": ["https://media2.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif?cid=ecf05e47gtxeyjbo9zazna71r3o1u15nhdej3jbaq92qq6ov&rid=giphy.gif&ct=g"],
+        "photovip5": ["https://i.pinimg.com/originals/f9/85/a8/f985a8c4070a13eb3092a79f51d1fa5a.gif"],
+        "photovip11": [""],
+	"mongodb": "mongodb+srv://HyuXingum:Bumbobi2008!@huyxingum.v5rflcb.mongodb.net/?retryWrites=true&w=majority"
+}
